@@ -16,7 +16,7 @@
  
 💬 Ask me about **Javascript, HTML5 & CSS3, ExpressJS, MongoDB, Mongoose, Node.js, React, Firebase**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **The human brain contains approximately 86 billion neurons and can perform about one exaflop (a billion billion calculations) per second, which is on par with some of the world’s fastest supercomputers.**
 
  </div>
 
