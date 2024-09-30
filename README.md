@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Docker, PostgreSQL, Web3.js**
  
-💬 Ask me about **Javascript, HTML5 & CSS3, ExpressJS, MongoDB, Mongoose, Node.js, React, Firebase**
+💬 Ask me about **Javascript, HTML5 & CSS3, ExpressJS, MongoDB, Mongoose, Node.js, React, Firebase, MySQL**
 
 ⚡ Fun fact **The human brain contains approximately 86 billion neurons and can perform about one exaflop (a billion billion calculations) per second, which is on par with some of the world’s fastest supercomputers.**
 
