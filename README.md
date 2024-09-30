@@ -10,7 +10,7 @@
 
 <div align="center">
     
- 🔭 I’m currently working on chat app
+ 🔭 I’m currently working on banking platform
  
  🌱 I’m currently learning **Docker, PostgreSQL, Web3.js**
  
