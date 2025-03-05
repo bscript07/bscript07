@@ -16,8 +16,6 @@
  
 💬 Ask me about **Javascript, HTML5 & CSS3, ExpressJS, MongoDB, Mongoose, Node.js, React, Firebase, MySQL**
 
-⚡ Fun fact **Did you know? Honey never spoils! Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible. So, if you're ever in a sticky situation, just remember: a jar of honey is like that friend who never runs out of good vibes!**
-
  </div>
 
  <div align="center"> 
