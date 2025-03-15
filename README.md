@@ -4,20 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Brayan+Markov+✌️;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Bulgaria</h3>
-
-</br>
-
-<div align="center">
-    
- 🔭 I’m currently working on exciting web development projects.
- 
- 🌱 I’m currently learning **Docker, PostgreSQL, Web3.js**
- 
-💬 Ask me about **Javascript, HTML5 & CSS3, ExpressJS, MongoDB, Mongoose, Node.js, React, Firebase, MySQL**
-
- </div>
-
  <div align="center"> 
   <a href="mailto:brayan_markov@yahoo.com">
     <img src="https://img.shields.io/badge/Yahoo-333333?style=for-the-badge&logo=gmail&logoColor=red" />
