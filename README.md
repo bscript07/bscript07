@@ -6,17 +6,6 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,firebase,mongodb,nextjs,mysql" /><br>
-</div>
-
-<br/>
-
-<hr/>
-
 <div align="center">
   <br>
       <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/bscript07/bscript07/output/github-contribution-grid-snake.svg" />
